@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bhanupratap Singh</h1>
+<h1 align="center">Hi 👋, I'm Anurag Kumar</h1>
 <h3 align="center">Constructing pixels and logics.</h3>
 
 - 🔭 I’m currently working on [API-Java](https://github.com/wantedbear007/API-JavaSpringBoot)
