@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anurag Kumar</h1>
 <h3 align="center">Constructing pixels and logics.</h3>
 
-- 🔭 I’m currently working on [API-Java](https://github.com/wantedbear007/API-JavaSpringBoot)
+- 🔭 I’m currently working on 
 
 - 🌱 I’m currently learning **Google Flutter, Java SpringBooooooooooooooooot**
 
 - 👯 I’m looking to collaborate on **Flutter Development**
 
-- 👨‍💻 All of my projects are available at [https://bhanupratap-singh.vercel.app](https://bhanupratap-singh.vercel.app)
-
-- 📝 I write articles on [https://bhanupratap-singh.vercel.app/blogs](https://bhanupratap-singh.vercel.app/blogs)
+- 👨‍💻 All of my projects are available at 
 
 - 💬 Ask me about **React, Python, React-native**
 
