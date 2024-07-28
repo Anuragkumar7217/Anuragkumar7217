@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, Python, React-native**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-axCTr10q2RNcRvpbOq1F0fNWbGCIhMg/view?usp=sharing](https://drive.google.com/file/d/1-axCTr10q2RNcRvpbOq1F0fNWbGCIhMg/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/199iY9Q558EOHCu7Ff6R45pGI545_St5e/view?usp=drive_link
 
 <p align="left">
 </p>
